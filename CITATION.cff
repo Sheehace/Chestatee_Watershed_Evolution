@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Chestaee_Watershed_Evolution
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christopher
+    family-names: Sheehan
+    email: sheehace24@gmail.com
+    affiliation: Boston College
+    orcid: 'https://orcid.org/0000-0001-5697-8081'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Sheehace/Chestatee_Watershed_Evolution
+abstract: >-
+  Driver scripts and workflow for landscape evolution models
+  that evaluate future changes in landscape erosion and
+  sediment transport in the Chestatee Watershed, GA, USA.
+license: MIT
+version: '1.0'
+date-released: '2023-06-15'
